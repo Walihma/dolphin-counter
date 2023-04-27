@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <counter_icons.h>
 
-#define MAX_COUNT 99
+#define MAX_COUNT 999
 #define BOXTIME 2
 #define BOXWIDTH 30
 #define MIDDLE_X 64 - BOXWIDTH / 2
